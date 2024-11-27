@@ -2,7 +2,6 @@
 # pip install pandasai[excel]
 # pip install pandasai[connectors]
 
-# API's are paid
 import os, csv, matplotlib, tiktoken, streamlit as st, pandas as pd
 from pandasai import SmartDataframe
 from pandasai.connectors import PandasConnector
